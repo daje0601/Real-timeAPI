@@ -1,0 +1,11 @@
+member_id,name,phone,email,birth_date,registered_at,status
+M001,김철수,010-1234-5678,chulsoo@example.com,1990-05-15,2022-01-10,active
+M002,이영희,010-2345-6789,younghee@example.com,1985-08-22,2021-06-15,active
+M003,박민수,010-3456-7890,minsu@example.com,1992-12-03,2023-03-20,active
+M004,최수진,010-4567-8901,sujin@example.com,1988-03-11,2020-11-05,active
+M005,정호준,010-5678-9012,hojun@example.com,1995-07-28,2022-08-30,active
+M006,강미래,010-6789-0123,mirae@example.com,1991-01-19,2021-12-25,withdrawn
+M007,윤서연,010-7890-1234,seoyeon@example.com,1993-09-07,2023-01-15,active
+M008,임재현,010-8901-2345,jaehyun@example.com,1987-11-30,2020-05-18,active
+M009,한소영,010-9012-3456,soyoung@example.com,1994-04-25,2022-07-12,withdrawn
+M010,오동건,010-0123-4567,donggun@example.com,1989-06-14,2021-09-08,withdrawn
